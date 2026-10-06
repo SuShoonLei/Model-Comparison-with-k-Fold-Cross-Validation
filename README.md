@@ -1,4 +1,4 @@
-# Homework Assignment 3: Model Comparison with k-Fold Cross-Validation
+# Model Comparison with k-Fold Cross-Validation
 
 CSC 461: Machine Learning
 
